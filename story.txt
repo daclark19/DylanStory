@@ -1,3 +1,5 @@
 Once upon a time there was a man named Frank. He was a student in computer science at UW Madison.
 He was from Canada and enjoyed drinking maple syrup and snowboarding. His life was a lot more interesting
 than you might think.
+
+For example, Frank used his knowledge in computer sciences to write software that was used all around the world. He then got to travel and present his software at large conferences where he got to meet new people who were just like him. Together they developed new ideas for how to use software to improve the world around them.
